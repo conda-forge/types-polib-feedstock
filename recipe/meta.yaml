@@ -1,5 +1,5 @@
 {% set name = "types-polib" %}
-{% set version = "1.1.12" %}
+{% set version = "1.1.12.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-polib-{{ version }}.tar.gz
-  sha256: b6bb12586c958ba1e2431e44fb66d8d63e981d855658b5066562dfb57485ce2d
+  sha256: 50304529061f397aacc69e70e649669db826eb4f61bec16e13b982755022626a
 
 build:
   number: 0
