@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "1.2.0.20260518"
+  version: "1.2.0.20261115"
 
 package:
   name: types-polib
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/types-polib/types_polib-${{ version }}.tar.gz
-  sha256: 2b593a1c6eceb1c4d2ef41054d24ec17c5ee3ec4f2a29a26ece75d8f5715420f
+  sha256: 94a3d68e55154cf2d7497000496032ac819ce8149469f72def8ac757b7fb7915
 
 build:
   number: 0
